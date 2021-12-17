@@ -1,0 +1,36 @@
+body{
+    font : 20px arial, serif
+}
+
+.navbar {
+    background-color : #298A08;
+}
+
+.quem-somos{
+    background-color: #4b644d;
+    color : white;
+}
+
+.margin{
+    padding-bottom : 50px;
+    padding-top : 10px;
+} 
+
+.parceiros{
+    background-color : rgb(124, 175, 241);
+}
+
+.servicos{
+    background-color: #B8B7B2;
+    color : black;
+}
+
+.rocketseat{
+    margin-top : 50px;
+}
+
+.bg-footer{
+    background-color : black;
+    color : white;
+}
+
